@@ -1,0 +1,8 @@
+{
+  "name": "Sarathi.ai - The Universal Life Architect",
+  "description": "A Next-Gen AI infrastructure for India. Voice-first, vernacular, and secure. Features 'Lakshmi Tracker' for unclaimed wealth, 'Jeevan' for document automation, and 'Raksha' for scam detection. Compliant with DPDP Act 2023.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
